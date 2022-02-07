@@ -1,4 +1,4 @@
-//Jacob Silveira
+//Jacob Silveira and Jose Castillo
 //CST-315
 //Project 1: Unix/Linux Command Line Interpreter
 //The function of this program is to be a command line interpreter,after running the program the user should see text promting them for a command such as "ls"
